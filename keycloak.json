@@ -1,0 +1,1 @@
+{"realm": "dev-con-1.5.5", "auth-server-url": "http://auth.mmsofts.com/auth", "ssl-required": "none", "resource": "dev-con-documents",   "credentials": { "secret": "72ba8ad2-3491-44a0-925c-dbb002e0f82c" }}
